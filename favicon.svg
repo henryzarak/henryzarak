@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#070707"/>
+  <rect x="0.5" y="0.5" width="63" height="63" fill="none" stroke="#232323"/>
+  <text x="32" y="43" font-family="Impact,Haettenschweiler,Arial Black,sans-serif" font-size="30"
+        text-anchor="middle" fill="#f2efe6" letter-spacing="-1">HZ</text>
+  <rect x="24" y="49" width="16" height="3" fill="#d4af37"/>
+</svg>
